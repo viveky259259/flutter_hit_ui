@@ -146,7 +146,6 @@ class _BottomState extends State<Bottom> {
                     margin: e,
                     width: double.infinity,
                     height: 3,
-
                     duration: Duration(milliseconds: 374),
                     curve: Curves.fastOutSlowIn,
                     child: Container(
@@ -197,8 +196,10 @@ class _BottomState extends State<Bottom> {
                               ),
                             Center(
                               child: Icon(
-                                Icons.map,
-                                color: Color(0xE1FFFFFF),
+                                Icons.card_travel,
+                                color: selectedIndex1 == 0
+                                    ? Colors.white
+                                    : Color(0x61FFFFFF),
                               ),
                             ),
                           ],
@@ -243,8 +244,10 @@ class _BottomState extends State<Bottom> {
                               ),
                             Center(
                               child: Icon(
-                                Icons.map,
-                                color: Color(0xE1FFFFFF),
+                                Icons.favorite_border,
+                                color: selectedIndex1 == 1
+                                    ? Colors.white
+                                    : Color(0x61FFFFFF),
                               ),
                             ),
                           ],
@@ -289,8 +292,10 @@ class _BottomState extends State<Bottom> {
                               ),
                             Center(
                               child: Icon(
-                                Icons.map,
-                                color: Color(0xE1FFFFFF),
+                                Icons.search,
+                                color: selectedIndex1 == 2
+                                    ? Colors.white
+                                    : Color(0x61FFFFFF),
                               ),
                             ),
                           ],

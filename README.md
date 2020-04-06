@@ -9,3 +9,4 @@ This repository contains beautiful ui implmentations aroung globe
 [!Watch the Video](https://github.com/viveky259259/flutter_hit_ui/blob/master/videos/light_tab_bar_video.mp4)
 
 ![Image description](https://github.com/viveky259259/flutter_hit_ui/blob/master/images/light_tab_bar.jpeg)
+![GIF](https://github.com/viveky259259/flutter_hit_ui/blob/master/gif/light_tab_bar.gif)

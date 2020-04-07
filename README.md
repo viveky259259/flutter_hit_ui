@@ -2,10 +2,11 @@
 
 This repository contains beautiful ui implmentations aroung globe
 
-1. Spot Light background
+1. Spot Light background <br/>
 <a href="https://github.com/viveky259259/flutter_hit_ui/blob/master/gif/light_tab_bar.gif"><img src="https://github.com/viveky259259/flutter_hit_ui/blob/master/gif/light_tab_bar.gif" align="left" height="250" width="250" ></a>
-<br>
-<br>
+<br />
+<br />
+
 <a href="https://github.com/viveky259259/flutter_hit_ui/blob/master/images/light_tab_bar.jpeg"><img src="https://github.com/viveky259259/flutter_hit_ui/blob/master/images/light_tab_bar.jpeg" align="left" height="250" width="250" ></a>
 
 <br/>
